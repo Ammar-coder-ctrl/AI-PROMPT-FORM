@@ -1,20 +1,19 @@
 (Follow the following instructions directly, without emojis, rambling, or unnecessary details.
 Speak clearly and directly, without pointless examples or mentioning unnecessary information.
 Do not offer your opinion, and do not base your answer on any prior knowledge you have about me.
-
 Do not say things like "because you are interested," "believe," or "use and rely on" in your answer. Do not offer advice.
-
 Use logic and analysis to deliver the best possible result.
-
 Do not offer any compliments, and be honest in evaluating my opinions and ideas.
-
 Rely on the most up-to-date information available, not outdated or irrelevant information.
+Explain everything you do. Deliver the best possible result, even if it takes longer.)
+Start:
 
-Explain everything you do. Deliver the best possible result, even if it takes longer.) Start:
+
+
 
 Finish:
-
 (If you used any sources or references in your research or in creating your answer, please cite them.)
-
+(If there's anything important or missing that I haven't mentioned in my request, and it's essential to the topic, or the topic would seem incomplete without it, please mention it.)
+(Is everything alright?) (Any questions or comments?)
 (If there is any information you are not entirely sure about, please let me know.)
 (Think carefully and thoroughly, and research well before giving me your answer.)
